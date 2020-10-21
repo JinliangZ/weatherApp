@@ -1,8 +1,4 @@
-#weatherApp
-
-
-#####weatherApp
-check a certain city's weather
+# weatherApp
 
 
 https://jinliangz.github.io/weatherApp/
